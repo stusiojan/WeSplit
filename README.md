@@ -1,0 +1,2 @@
+# WeSplit
+Check splitting app
